@@ -1,4 +1,4 @@
-<p align="center"><a href="https://guruexporers.com" target="_blank"><img src="https://github.com/guruexplorers/.github/blob/master/docs/images/guru-logo-gh.png?raw=true" ></a></p>
+<p align="center"><a href="https://guruexporers.com" target="_blank"><img src="https://github.com/guruexplorers/.github/blob/main/docs/images/guru-logo-gh.png?raw=true" ></a></p>
 
 ## Who We Are?
 Gurus are more than just teachers, guides, and experts. They're also known for daring to dive into the light and step away from the darkness. This commitment to exploration is what inspired us to create Guru Explorers
